@@ -9,3 +9,11 @@ $ cd tiny_tower_defense
 $ make
 $ make run
 ```
+## How to play
+
+| KEYBOARD | ACTION |
+| -------- | ------ |
+| `B`      | Build a tower at the selected tile |
+
+## References
+- Madhav, S. Game Programming in C++. (https://github.com/gameprogcpp/code/tree/master/Chapter04)
