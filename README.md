@@ -1,4 +1,7 @@
-# tiny_tower_defense
+## Summary
+A tiny tower defense game built with SDL2.
+
+![demo.gif](demo.gif)
 
 ## Getting Started
 ```shell
